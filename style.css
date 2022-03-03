@@ -1,0 +1,164 @@
+body{
+    text-align: center;
+    background: linear-gradient( #3f34d8 0%,#f35c15 100%);
+}
+html
+{
+    scroll-behavior:smooth ;
+}
+
+
+#myname{
+   font-family: Courgette, cursive;
+}
+#welcome{
+     padding:25px;
+    
+    
+    
+}
+
+#welcome h1{
+    font-size: 40px;
+}
+h1{
+  
+  font-size:18px;
+}
+p{
+  font-size:18px;
+  color:#681c97;
+    
+}
+h2{
+  font-size:20px;
+  color:#003487;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
+}
+#about{
+    padding-top:40px;
+    font-size:42;
+    background:pink;
+}
+.menu{
+   list-style: none;
+    font-family:cursive;
+   float:right;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    color:rgb(56, 2, 233);
+}
+.menu a{
+    color:black !important;
+}
+
+
+.link{
+    color:crimson;
+    display: inline;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom: 5px;
+}
+   .link:hover{
+    background-color:beige;
+}
+
+#video{
+    padding-top:40px;
+    font-size:42;
+    background-color: darksalmon;
+}
+#video a{
+    font-size: 30px;
+    
+}
+
+.button {
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+a
+{
+  text-decoration:none;
+}
+.menu{
+  background-color:rgb(226, 109, 42);
+  font-size: xx-large;
+  font-weight: 400;
+  font-family :'League Gothic', sans-serif;;
+  margin-right: 1cm;
+  border-radius: 0.5cm;
+ border-color: lawngreen;
+ 
+ position: fixed;
+ text-align: center;
+ padding:20px;
+
+ 
+}
+.text{
+  font-family: 'League Spartan', sans-serif;
+  font-size: xx-large;
+  border-radius: 0.5cm;
+  border-color: firebrick;
+  color: rgb(109, 231, 211);
+}
+.title{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+  color: rgb(61, 207, 4);
+}
+h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  color: black;
+}
+.text2{
+  font-weight: 400;
+  color: aliceblue;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 2%;
+  padding-left: 5cm;
+  padding-right: 5cm;
+
+  }
+  .linee{
+    height: 6px;
+    background-color: rgb(40, 18, 243);
+    width:400px;
+    margin:8px auto;
+}
+.Mylife{
+  font-family: 'Lobster', cursive;
+  color: rgb(21, 196, 93);
+  margin-top: 3cm;
+}
+.conc{
+font-size:200%;
+font-weight: 600;
+color: rgba(98, 228, 119, 0.966);
+padding-left: 5%;
+padding-right: 5%;
+}
+.tag{
+  color: beige;
+  
+}
+.tag1{
+  color: beige;
+}
+
