@@ -1,12 +1,12 @@
-body{
-    text-align: center;
+body{  
+    margin: auto;
+  text-align: center;
     background: linear-gradient( #3f34d8 0%,#f35c15 100%);
 }
 html
 {
     scroll-behavior:smooth ;
 }
-
 
 #myname{
    font-family: Courgette, cursive;
@@ -107,6 +107,7 @@ a
  position: fixed;
  text-align: center;
  padding:20px;
+ margin: auto;
 
  
 }
@@ -116,48 +117,58 @@ a
   border-radius: 0.5cm;
   border-color: firebrick;
   color: rgb(109, 231, 211);
+  margin: auto;
 }
 .title{
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-weight: bold;
   color: rgb(61, 207, 4);
+  margin: auto;
 }
 h1{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-weight: bold;
   color: black;
+  margin: auto;
 }
 .text2{
   font-weight: 400;
   color: aliceblue;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   margin-top: 2%;
- margin-right:1px;
-     margin-left:1px;
+margin: 40px;
+
   }
   .linee{
     height: 6px;
     background-color: rgb(40, 18, 243);
     width:400px;
-    margin:8px auto;
+    margin:auto;
 }
 .Mylife{
   font-family: 'Lobster', cursive;
   color: rgb(21, 196, 93);
   margin-top: 3cm;
+  margin: auto;
+  
+
 }
 .conc{
 font-size:200%;
 font-weight: 600;
 color: rgba(98, 228, 119, 0.966);
-padding-left: 5%;
-padding-right: 5%;
+
+margin: auto;
 }
 .tag{
   color: beige;
+  margin: 30px;
   
 }
 .tag1{
   color: beige;
+  margin: auto;
 }
-
+.apps{
+  margin: auto;
+}
